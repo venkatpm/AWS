@@ -4,8 +4,7 @@ import operator
 from datetime import datetime, timedelta
 
 #AWS Account
-ACCOUNT = '370236063861'
-
+ACCOUNT = 'XXXXXXXXXXXX'
 
 #RDS instance
 INSTANCE = 'sql2012'
